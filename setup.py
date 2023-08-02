@@ -25,5 +25,4 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3",
     ],
-    download_url="https://github.com/sagevik/testpackage/archive/refs/tags/0.0.1.tar.gz",
 )
