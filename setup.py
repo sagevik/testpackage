@@ -14,8 +14,8 @@ setuptools.setup(
     long_description_content_type="text/markdown",  # README.md is of type 'markdown'
     author="Rune",
     author_email="rsagevik@gmail.com",
-    url="https://github.com/mike-huls/toolbox_public",
-    project_urls={"Bug Tracker": "https://github.com/mike-huls/toolbox_public/issues"},  # Optional
+    url="https://github.com/sagevik/testpackage",
+    project_urls={"Bug Tracker": "https://github.com/sagevik/testpackage/issues"},  # Optional
     install_requires=[],  # list all packages that your package uses
     keywords=["pypi", "testpackage", "tutorial"],  # descriptive meta-data
     classifiers=[  # https://pypi.org/classifiers
